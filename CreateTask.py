@@ -5,6 +5,8 @@ import requests
 import json
 import time
 
+# 0. create project
+
 # 1. 登录
 
 def login(j_username = "gs01@qq.com", j_password = "123456"):

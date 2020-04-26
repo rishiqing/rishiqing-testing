@@ -1,8 +1,7 @@
 import time
-import framework.case.BaseCase as baseCase
 import rishiqing.constants.url as url
 
-class TodoCommon (baseCase.BaseCase):
+class TodoCommon (BaseCase.BaseCase):
     commonParam = {
             'dates': "",
             'rrule': "",

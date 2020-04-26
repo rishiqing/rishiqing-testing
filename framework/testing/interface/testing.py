@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-import framework.network.http_request as  httpRequest
+import framework.common.network.http_request as  httpRequest
 
 def batchRun (test_cases) :
     for key in test_cases:

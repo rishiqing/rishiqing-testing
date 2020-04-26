@@ -1,5 +1,5 @@
 # 1. 登录
-import framework.network.http_request as  httpRequest
+import framework.common.network.http_request as  httpRequest
 import rishiqing.constants.url as url
 
 

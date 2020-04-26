@@ -1,6 +1,6 @@
 import abc
-import framework.util.util as util
-import framework.network.http_request as  httpRequest
+import framework.common.util.util as util
+import framework.common.network.http_request as  httpRequest
 # 用例基础模板类
 # 用例需要继承此类，并且实现run方法
 class  BaseCase(metaclass=abc.ABCMeta): #抽象类

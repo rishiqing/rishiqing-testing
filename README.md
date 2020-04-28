@@ -26,6 +26,7 @@ pip install pipenv
 
 2.使用pipenv安装依赖
 <pre>
+pipenv --python pypy3
 pipenv install
 </pre>
 
